@@ -16,5 +16,10 @@ namespace PetStoreManagement
         {
             InitializeComponent();
         }
+
+        private void MainFrom_Load(object sender, EventArgs e)
+        {
+            string a;
+        }
     }
 }
